@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Personal Travel Blog</title>
+    <link>https://github.com/MR-JK004/jitenderkumar.github.io.git/posts/</link>
+    <description>Recent content in Posts on Personal Travel Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Oct 2023 19:23:31 +0530</lastBuildDate><atom:link href="https://github.com/MR-JK004/jitenderkumar.github.io.git/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Title of my Post</title>
+      <link>https://github.com/MR-JK004/jitenderkumar.github.io.git/posts/mypost/</link>
+      <pubDate>Wed, 25 Oct 2023 19:23:31 +0530</pubDate>
+      
+      <guid>https://github.com/MR-JK004/jitenderkumar.github.io.git/posts/mypost/</guid>
+      <description> public static void main(String a[]){ System.out.println(&amp;#34;This is My Post PS&amp;#34;); } </description>
+    </item>
+    
+  </channel>
+</rss>
